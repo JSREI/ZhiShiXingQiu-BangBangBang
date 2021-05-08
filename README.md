@@ -36,7 +36,7 @@
 
 刷赞完成之后会提示本次点赞了多少条动态： 
 
-![](markdown-images/README_images/36f40651.png)
+![](markdown-images/README_images/51109503.png)
 
 然后把此脚本禁用，把页面关闭即可。
 
