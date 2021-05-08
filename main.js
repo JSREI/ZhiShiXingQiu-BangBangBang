@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         知识星球自动点赞脚本
-// @namespace    CC11001100.com
-// @version      0.2
+// @namespace    https://github.com/CC11001100/ZhiShiXingQiu-Bang
+// @version      0.3
 // @description  知识星球自动化点赞，解放双手！
 // @author       CC11001100
 // @match       *://*/*
