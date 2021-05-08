@@ -38,6 +38,6 @@
 
 ![](markdown-images/README_images/36f40651.png)
 
-然后把此脚本禁用，把页面即可。
+然后把此脚本禁用，把页面关闭即可。
 
 
