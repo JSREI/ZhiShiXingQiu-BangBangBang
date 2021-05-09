@@ -38,6 +38,10 @@
 
 ![](markdown-images/README_images/51109503.png)
 
+比如动态比较多的：  
+
+![](markdown-images/README_images/bf7db7fc.png)
+
 然后把此脚本禁用，把页面关闭即可。
 
 
