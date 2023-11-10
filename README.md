@@ -1,21 +1,21 @@
 # 知识星球自动点赞脚本
 
 
-## 一、安装
+# 一、安装
 脚本已上传到油猴官方商店，在商店安装脚本即可：  
-  
+
 [https://greasyfork.org/zh-CN/scripts/426175](https://greasyfork.org/zh-CN/scripts/426175)  
 
-![](markdown-images/README_images/985e0a50.png)
+![image-20231111015609994](README.assets/image-20231111015609994.png)
 
 
-## 二、使用 
+# 二、使用 
 
-先将本油猴脚本置于禁用状态：  
+第一步，先将本油猴脚本置于禁用状态：  
 
 ![](markdown-images/README_images/9dae43e2.png)  
 
-然后访问知识星球的官网：
+第二步，然后访问知识星球的官网：
 
 [https://wx.zsxq.com/](https://wx.zsxq.com/)
 
@@ -27,7 +27,7 @@
 
 ![](markdown-images/README_images/d4617e26.png)  
 
-然后在油猴的管理界面将本脚本打开：  
+第三步，然后在油猴的管理界面将本脚本打开：  
 
 ![](markdown-images/README_images/25b49d85.png)
 
@@ -43,5 +43,4 @@
 ![](markdown-images/README_images/bf7db7fc.png)
 
 然后把此脚本禁用，把页面关闭即可。
-
 
